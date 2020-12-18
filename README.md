@@ -8,6 +8,13 @@ Here, I have used Fisher's Iris dataset,and downloaded from kaggle.com as a .csv
 
 ![330px-Iris_versicolor_3](https://user-images.githubusercontent.com/76059423/102658762-3aad3480-419e-11eb-96ee-a1418cb67da8.jpg)
 
+
+### Iris-Virginica
+
+
+![330px-Iris_virginica](https://user-images.githubusercontent.com/76059423/102659020-b6a77c80-419e-11eb-8dc6-1908cbe2b08d.jpg)
+
+
 ## Libraries to be installed :
 
 1. pandas
