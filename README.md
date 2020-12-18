@@ -3,6 +3,11 @@
 I have used various Machine Learning algorithms, specifically classified under Supervised and Unsupervised learning, to analyze the Iris Flower dataset. 
 Here, I have used Fisher's Iris dataset,and downloaded from kaggle.com as a .csv file. Our task is to classify Iris flowers among three species( namely Setosa, Virginica and Versicolor), from measurements of length of sepals and petals.
 
+### Iris-Versicolor
+
+
+![330px-Iris_versicolor_3](https://user-images.githubusercontent.com/76059423/102658762-3aad3480-419e-11eb-96ee-a1418cb67da8.jpg)
+
 ## Libraries to be installed :
 
 1. pandas
